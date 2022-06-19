@@ -9,9 +9,9 @@ public:
         {
             vector<string> res;
             char c = searchWord[i];
-            while (left <= right and (products[left].length() == i or products[left][i] < c)) 
+            while (left <= right and (products[left][i] < c)) 
                     left++;
-            while (left <= right and (products[right].length() == i or products[right][i] > c))
+            while (left <= right and (products[right][i] > c))
                     right--;
             for (int j = 0; j < 3 and left + j <= right; j++)
                 res.push_back(products[left+j]);
