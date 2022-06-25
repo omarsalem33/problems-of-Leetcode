@@ -6,7 +6,7 @@ public:
             if(nums[i] < nums[i-1]){
                 if(++cnt > 1) 
                         return false;
-                if(i == 1 || nums[i-2] <= nums[i])
+                if(i == 1 or nums[i-2] <= nums[i])
                         nums[i-1] = nums[i];    
                 else
                         nums[i] = nums[i-1];
@@ -16,3 +16,7 @@ public:
     } 
 
 };
+
+// 3 4 2 3
+// 4 4 2 3   -> cnt = 1
+// 4 4 4 3   -> cnt = 2 return false
