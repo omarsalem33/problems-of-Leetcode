@@ -3,7 +3,8 @@ public:
     vector<int> sumEvenAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         int sum = 0, N = queries.size();
         for (int n : nums) {
-            if (n % 2 == 0) sum += n;
+            if (n % 2 == 0)
+                sum += n;
         }
         
         vector<int> ans(N, 0);
@@ -14,13 +15,13 @@ public:
             
             bool wasEven = (oldValue % 2) == 0, nowEven = (nums[index] % 2 == 0);
             
-            if (wasEven && nowEven) {
+            if (wasEven and nowEven) {
                 ans[i] = sum + val;
                 sum += val;
-            } else if (!wasEven && nowEven) {
+            } else if (!wasEven and nowEven) {
                 ans[i] = sum + nums[index];
                 sum += nums[index];
-            } else if (wasEven && !nowEven) {
+            } else if (wasEven and !nowEven) {
                 ans[i] = sum - oldValue;
                 sum -= oldValue;
             } else {
