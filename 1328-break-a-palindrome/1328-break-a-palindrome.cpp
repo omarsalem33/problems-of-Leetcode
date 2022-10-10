@@ -10,14 +10,10 @@ public:
            for(int i = 0 ; i < n/2; i ++){
                if(palindrome[i] != 'a'){
                    palindrome[i] = 'a';
-                   flag = true;
-                   break;
+                   return palindrome;
                }
            }
-           if(flag)
-               return palindrome;
-           else
-              palindrome[n-1] = 'b';
+           palindrome[n-1] = 'b';
            return palindrome;
            
        }
