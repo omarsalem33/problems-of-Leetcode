@@ -13,6 +13,7 @@ public:
     
     string countAndSay(int n) {
         if(n == 1) return "1";
+        if(n == 2) return "11";
         return say(countAndSay(n-1));//string size --> 3
     }
 };
