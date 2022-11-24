@@ -21,8 +21,14 @@ public:
       if(grid[i][j] == word[idx]){
         char tmp = word[idx];
         grid[i][j] = '#';
-        check = search(i + 1, j , idx + 1 , grid , word) or search(i - 1, j , idx + 1 , grid , word)
-              or search(i , j + 1, idx + 1 , grid , word) or search(i , j - 1, idx + 1 , grid , word);
+          if(search(i + 1, j , idx + 1 , grid , word))
+            return true;
+          if(search(i - 1, j , idx + 1 , grid , word))
+              return true;
+          if(search(i , j +1, idx + 1 , grid , word))
+              return true;
+          if(search(i , j - 1 , idx + 1 , grid , word))
+              return true;
         grid[i][j] = tmp;
       }
       return check;
