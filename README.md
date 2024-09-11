@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0045-jump-game-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
