@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
