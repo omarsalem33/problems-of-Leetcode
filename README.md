@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
