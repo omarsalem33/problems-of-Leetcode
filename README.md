@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0045-jump-game-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3429-special-array-i](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
