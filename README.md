@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0013-roman-to-integer) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0013-roman-to-integer) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
