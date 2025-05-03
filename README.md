@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1415-students-and-examinations](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1415-students-and-examinations) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2087-confirmation-rate) |
 ## Hash Table
 |  |
