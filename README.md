@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Database
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0415-add-strings) |
 | [2386-min-max-game](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2386-min-max-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
