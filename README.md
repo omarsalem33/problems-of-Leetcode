@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0045-jump-game-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2386-min-max-game](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2386-min-max-game) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0392-is-subsequence) |
+| [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1894-merge-strings-alternately](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0812-rotate-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1894-merge-strings-alternately](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0812-rotate-string) |
+| [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 <!---LeetCode Topics End-->
