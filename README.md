@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1603-running-sum-of-1d-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2386-min-max-game) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/3429-special-array-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2386-min-max-game) |
 ## Interactive
 |  |
