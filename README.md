@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1603-running-sum-of-1d-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2386-min-max-game](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2386-min-max-game) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
