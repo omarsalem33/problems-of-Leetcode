@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
