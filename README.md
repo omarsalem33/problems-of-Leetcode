@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -124,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
