@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0217-contains-duplicate) |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2058-concatenation-of-array) |
