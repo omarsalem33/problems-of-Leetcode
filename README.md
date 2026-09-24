@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0812-rotate-string](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0812-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
 | [1894-merge-strings-alternately](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Counting
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0242-valid-anagram) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
