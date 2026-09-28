@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/2386-min-max-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0392-is-subsequence) |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1364-tuple-with-same-product](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/0242-valid-anagram) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Euclidean Algorithm
 |  |
 | ------- |
