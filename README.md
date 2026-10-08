@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1080-camelcase-matching) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/omarsalem33/problems-of-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
